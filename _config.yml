@@ -1,14 +1,17 @@
-baseurl: '/'
+baseurl: ""
 permalink: pretty
 title: 'The COO Venture'
 
+description: "Innovation at Play, Leadership at Work"  # Add this line for the site description
+
 logo:
-  mobile: "images/logo/logo-mobile.svg"
+  mobile: "images/logo/logo-mobile.jpg"
   mobile_height: "32px"
   mobile_width: "32px"
-  desktop: "images/logo/logo.svg"
+  desktop: "images/logo/logo.jpg"
   desktop_height: "32px"
   desktop_width: "120px"
+
 
 home: 
   limit_services: 6

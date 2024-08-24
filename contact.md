@@ -1,16 +1,8 @@
 ---
 title: Contact
 layout: contact
-description: Contact
+description: Contact US
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
+We’re always eager to connect with visionary leaders, innovators, and creative minds. Whether you're interested in collaboration, have a question about our services, or just want to bounce around some ideas, we're here and ready to chat. And to get things started, we offer a free 25-minute consultation—let’s explore how we can bring your vision to life together. 
 
-| Day       | Opening Hours   |
-| --------- | --------------- |
-| Tuesday   | 8:30am - 5:00pm |
-| Wednesday | 8:30am - 5:00pm |
-| Thursday  | 8:30am - 5:00pm |
-| Friday    | 8:30am - 5:00pm |
-| Saturday  | 10:am - 4:00pm  |
-| Saturday  | Closed          |

@@ -1,29 +1,16 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
-    "image": {
-      "url": "images/features/noun_branding_1885335.svg",
-      "width": 80,
-      "height": 80
-    }
+    "title": "Strategic Planning",
+    "description": "We help you map out a clear and actionable plan to achieve your goals.",
+
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
-    "image": {
-      "url": "images/features/noun_The Process_1885341.svg",
-      "width": 80,
-      "height": 80
-    }
+    "title": "Creative Consulting",
+    "description": "Our team brings fresh, creative ideas to the table, tailored to your needs.",
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
-    "image": {
-      "url": "images/features/noun_3d modeling_1885342.svg",
-      "width": 80,
-      "height": 80
-    }
+    "title": "Tech Integration",
+    "description": "We integrate the latest technology to streamline your business operations.",
+  
   }
 ]
