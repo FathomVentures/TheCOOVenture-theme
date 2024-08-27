@@ -24,27 +24,51 @@ bodyClass: "page-home"
 <div class="strip">
   <div class="container pt-6 pb-6 pb-md-10">
     <div class="row justify-content-start">
-      {% assign limit = site.home.limit_services | default: 6 %}
-      {% for service in site.services limit: limit %}
-      <div class="col-12 col-md-4 mb-1">
+      <!-- Row 1: Program & Project Management and Creative Consulting -->
+      <div class="col-12 col-md-6 mb-1">
         <div class="service service-summary">
           <div class="service-content">
             <h2 class="service-title">
-              <a href="{{ service.url | relative_url }}">{{ service.title }}</a>
+              <a href="/program-project-management/">Program & Project Management</a>
             </h2>
-            <p>{{ service.excerpt | markdownify | strip_html | truncate: 100 }}</p>
+            <p>Expert management of programs and projects, delivered with the care and attention they deserve.</p>
           </div>
         </div>
       </div>
-      {% endfor %}
-    </div>
-    {% comment %}
-    <div class="row justify-content-center">
-      <div class="col-auto">
-        <a class="button button-primary" href="{{ "services" | relative_url }}">View All Services</a>
+      <div class="col-12 col-md-6 mb-1">
+        <div class="service service-summary">
+          <div class="service-content">
+            <h2 class="service-title">
+              <a href="/creative-consulting/">Creative Consulting</a>
+            </h2>
+            <p>Creativity isn’t just about coming up with ideas—it’s about bringing those ideas to life in a way...</p>
+          </div>
+        </div>
       </div>
     </div>
-    {% endcomment %}    
+    <!-- Row 2: AI-Driven Solutions and Tech Education -->
+    <div class="row justify-content-start">
+      <div class="col-12 col-md-6 mb-1">
+        <div class="service service-summary">
+          <div class="service-content">
+            <h2 class="service-title">
+              <a href="/ai-driven-solutions/">AI-Driven Solutions</a>
+            </h2>
+            <p>Unlock the potential of AI to take your business to the next level. Whether you’re looking to str...</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-12 col-md-6 mb-1">
+        <div class="service service-summary">
+          <div class="service-content">
+            <h2 class="service-title">
+              <a href="/tech-education/">Tech Education</a>
+            </h2>
+            <p>Empowering You to Thrive in a Digital World</p>
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
 </div>
 

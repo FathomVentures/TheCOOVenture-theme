@@ -20,17 +20,52 @@ bodyClass: "page-services"
 
 <div class="container pt-6 pb-6">
   <div class="row">
-    {% for service in site.services %}
+    <!-- Program & Project Management -->
     <div class="col-12 col-md-6 mb-3">
-      <div class="service service-summary">
-        <div class="service-content">
-          <h2 class="service-title">
-            <a href="{{ service.url | relative_url }}">{{ service.title }}</a>
+      <div class="service service-summary" style="display: flex; flex-direction: column; height: auto;">
+        <div class="service-content" style="flex-grow: 1;">
+          <h2 class="service-title" style="font-weight: bold;">
+            <a href="{{ '/services/program-&-project-management/' | relative_url }}">Program & Project Management</a>
           </h2>
-          <p>{{ service.excerpt | markdownify | strip_html | truncate: 100 }}</p>
+          <p>Expert management of programs and projects, delivered with the care and attention they deserve.</p>
         </div>
       </div>
     </div>
-    {% endfor %}
+    
+    <!-- Creative Consulting -->
+    <div class="col-12 col-md-6 mb-3">
+      <div class="service service-summary" style="display: flex; flex-direction: column; height: auto;">
+        <div class="service-content" style="flex-grow: 1;">
+          <h2 class="service-title" style="font-weight: bold;">
+            <a href="{{ '/services/creative-consulting/' | relative_url }}">Creative Consulting</a>
+          </h2>
+          <p>We bring your ideas to life, helping you stand out with creative strategies that resonate with your audience.</p>
+        </div>
+      </div>
+    </div>
+    
+    <!-- AI-Driven Solutions -->
+    <div class="col-12 col-md-6 mb-3">
+      <div class="service service-summary" style="display: flex; flex-direction: column; height: auto;">
+        <div class="service-content" style="flex-grow: 1;">
+          <h2 class="service-title" style="font-weight: bold;">
+            <a href="{{ '/services/ai-driven-solutions/' | relative_url }}">AI-Driven Solutions</a>
+          </h2>
+          <p>Streamline operations, gain insights from your data, and enhance customer experiences with our AI-driven solutions.</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Tech Education -->
+    <div class="col-12 col-md-6 mb-3">
+      <div class="service service-summary" style="display: flex; flex-direction: column; height: auto;">
+        <div class="service-content" style="flex-grow: 1;">
+          <h2 class="service-title" style="font-weight: bold;">
+            <a href="{{ '/services/tech-education/' | relative_url }}">Tech Education</a>
+          </h2>
+          <p>Empower yourself to thrive in a digital world with our tailored tech education services.</p>
+        </div>
+      </div>
+    </div>
   </div>
 </div>
