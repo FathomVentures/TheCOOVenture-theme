@@ -1,10 +1,11 @@
 ---
 title: Tech Education
+permalink: /services/tech-education/
 layout: page
 description: Personalized Tech Education Services
 ---
 
-## Empower yourself to thrive in a digital world with our tailored tech education services.
+## Gain the Skills You Need to Succeed in Today’s Digital World with Our Tailored Training.
 
 We get it—technology can be intimidating, especially if you didn’t grow up with a smartphone in your hand. But here’s the thing: it doesn’t have to be. At The COO Venture, we believe everyone deserves to feel confident using technology, whether you're just starting out or looking to enhance your skills.
 

@@ -1,5 +1,6 @@
 ---
 title: "AI-Driven Solutions"
+permalink: /services/ai-driven-solutions/
 date: 2018-11-18T12:33:46+10:00
 weight: 2
 ---
