@@ -12,11 +12,10 @@ The COO Venture, where creativity meets practicality, and innovation is our dail
 At The COO Venture, our mission is to bridge the gap between visionary ideas and practical execution. We are committed to empowering businesses of all sizes with innovative solutions that simplify complexity, enhance creativity, and drive success. We’re here to make the journey smoother, more effective, and truly transformative.
 
 **What We Do:**
-- **[Program & Project Management](/program-and-project-management/):** We manage your projects with care and attention to detail, dedicated to keeping things on track, within budget, and aligned with your goals.
-- **[AI-Driven Solutions](/ai-driven-solutions/):** We harness the power of AI to make your business processes smoother than a jazz solo.
-- **[Creative Consulting](/creative-consulting/):** Whether you have a wild idea or need help coming up with one, we’re here to refine, polish, and bring visions to life. We can help projects stand out and resonate with your audience.
-- **[Tech Education](/tech-education/):** Technology doesn’t have to be intimidating. We offer personalized tech education tailored for those who might not be as comfortable with the digital world. Our goal is to empower you with the skills and confidence you need to thrive in today’s digital age—no prior tech experience required.
-
+- **[Program & Project Management](/services/program-project-management/):** We manage your projects with care and attention to detail, dedicated to keeping things on track, within budget, and aligned with your goals.
+- **[AI-Driven Solutions](/services/ai-driven-solutions/):** We harness the power of AI to make your business processes smoother than a jazz solo.
+- **[Creative Consulting](/services/creative-consulting/):** Whether you have a wild idea or need help coming up with one, we’re here to refine, polish, and bring visions to life. We can help projects stand out and resonate with your audience.
+- **[Tech Education](/services/tech-education/):** Technology doesn’t have to be intimidating. We offer personalized tech education tailored for those who might not be as comfortable with the digital world. Our goal is to empower you with the skills and confidence you need to thrive in today’s digital age—no prior tech experience required.
 
 **Why We’re Different:**
 We understand the unique challenges faced by small to medium businesses, not-for-profits, and startups. Whether you’re just getting off the ground or looking to scale, we’re here to support you every step of the way. We don’t just deliver solutions and walk away—we partner with you to ensure those solutions are implemented effectively and continue to meet your evolving needs. Our approach is hands-on, practical, and tailored to your specific goals. We’re not interested in overwhelming you with jargon or complicated systems; we focus on what works for you, helping you build and grow with confidence.

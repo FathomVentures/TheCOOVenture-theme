@@ -3,6 +3,7 @@ title: Tech Education
 permalink: /services/tech-education/
 layout: page
 description: Personalized Tech Education Services
+weight: 4
 ---
 
 ## Gain the Skills You Need to Succeed in Today’s Digital World with Our Tailored Training.

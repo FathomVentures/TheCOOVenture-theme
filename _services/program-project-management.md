@@ -1,6 +1,7 @@
 ---
 title: "Program & Project Management"
-permalink: /services/program-and-project-management/
+permalink: /services/program-project-management/
+layout: service
 date: 2018-11-18T12:33:46+10:00
 weight: 1
 ---
